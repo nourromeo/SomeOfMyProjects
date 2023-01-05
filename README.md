@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nour Ibrahim</h1>
-<h3 align="center">Here is some of my procjet that I build them in my study journey...</h3>
+<h1 align="left">Hi 👋...
+<h3 align="left">Here is some of my procjet that I build them in my study journey...</h3>
 
 - 🔭 Tic Toc Game **it a tic toc game that tow can play it easily**
 
