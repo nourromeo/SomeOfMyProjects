@@ -5,6 +5,6 @@
 
 - 🔭 ERP system **ERP system for books, it works as a cashier and a ....**
 
-- 🔭 Text Editor **triyed to copy windows text editor :)**
+- 🔭 Text Editor **tried to copy windows text editor :)**
 
 
