@@ -3,7 +3,7 @@
 
 - 🔭 Tic Toc Game **it a tic toc game that tow can play it easily**
 
-- 🔭 ERP system **ERP system for books, it works as a cashier and a ....**
+- 🔭 ERP system **ERP system for books, it works as a cashier and resource provider**
 
 - 🔭 Text Editor **tried to copy windows text editor :)**
 
